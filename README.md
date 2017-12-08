@@ -9,6 +9,7 @@
 <p>工具提示框也可以用于表单元素，来显示每个区域中的一些额外的信息。</p>
 <p><label for="age">您的年龄：</label><input id="age" title="年龄仅用于统计。"></p>
 <p>悬停在相应的区域上查看工具提示框。</p>
+<input type="button" value="提示"/>
  
 </body>
 </html>
